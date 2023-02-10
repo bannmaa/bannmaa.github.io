@@ -1,2 +1,4 @@
 remote_theme: sighingnow/jekyll-gitbook
 title: What
+toc:
+    enabled: true
