@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <html>
 <body>
++ cover: /assets/jekyll-gitbook/dinosaur.gif
 <h1>what</h1>
 <div class="table-wrapper" markdown="block">
 
